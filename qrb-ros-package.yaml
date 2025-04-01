@@ -1,0 +1,6 @@
+qrb_ros_system_monitor_interfaces:
+    ubuntu: 
+        noble: [ros-jazzy-qrb-ros-system-monitor-interfaces]
+rb_ros_system_monitor:
+    ubuntu:
+        noble : [ros-jazzy-qrb-ros-system-monitor]
