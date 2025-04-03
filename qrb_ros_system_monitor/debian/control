@@ -8,5 +8,5 @@ Standards-Version: 3.9.2
 
 Package: ros-jazzy-qrb-ros-system-monitor
 Architecture: any
-Depends: 
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-qrb-ros-system-monitor-interfaces, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-ros2launch, ros-jazzy-std-msgs
 Description: System Monitor
